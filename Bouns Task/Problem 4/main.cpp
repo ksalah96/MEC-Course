@@ -6,9 +6,10 @@ int main()
 {
     int t;
     cin >> t;
-    int cntr = 0;
+
     while(t--)
     {
+        int cntr = 0;
         int a, b, c, d;
         cin >> a >> b >> c >> d;
 
